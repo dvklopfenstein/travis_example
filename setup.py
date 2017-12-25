@@ -20,7 +20,7 @@ classifiers = [
     ]
 
 # Use the helper
-h = SetupHelper(initfile="pkg/__init__.py", readmefile="README.md")
+h = SetupHelper(initfile="src/pkg/__init__.py", readmefile="README.md")
 
 setup_dir = op.abspath(op.dirname(__file__))
 requirements = ['wget'] + [x.strip() for x in
