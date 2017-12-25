@@ -1,0 +1,8 @@
+pytest
+pandas
+numpy
+scipy
+nose
+xlsxwriter
+statsmodels
+xlrd
