@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Test pkg."""
 
-from pkg.pkga import ClassA
+from travis_example.pkga import ClassA
 
 
 def test_pkg():
