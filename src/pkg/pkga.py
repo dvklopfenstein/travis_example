@@ -9,4 +9,3 @@ class ClassA(object):
     def prt(self, prt=sys.stdout):
         """Print class."""
         prt.write("ClassA\n")
-
