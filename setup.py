@@ -34,7 +34,7 @@ setup(
     license=h.license,
     long_description=h.long_description,
     packages=['travis_example',],
-    package_dir={'travis_example': 'src'},
+    package_dir={'travis_example': 'src/travis_example'},
     # packages=[name, name + ".test_data", name + ".anno"],
     # include_package_data=True,
     # package_data={"goatools.test_data.nbt_3102": ["*.*"]},
