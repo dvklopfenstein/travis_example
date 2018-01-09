@@ -33,7 +33,7 @@ setup(
     author_email=h.email,
     license=h.license,
     long_description=h.long_description,
-    packages=['src/{NAME}'.format(NAME=name)],
+    packages=['src/{NAME}'.format(NAME=name),],
     # packages=[name, name + ".test_data", name + ".anno"],
     # include_package_data=True,
     # package_data={"goatools.test_data.nbt_3102": ["*.*"]},
