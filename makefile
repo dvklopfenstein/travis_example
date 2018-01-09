@@ -7,6 +7,9 @@ vim_:
 
 update: .travis.yml
 
+setup:
+	python setup.py install
+
 .travis.yml: ../$(REPO)/.travis.yml
 	ls -rtl $<
 	cp -f $< $@
@@ -14,6 +17,10 @@ update: .travis.yml
 test_travis_subset:
 	py.test src/tests
 
+clean:
+	rm -rf build
+
 clobber:
+	make clean
 	rm -f .travis.yml
 
