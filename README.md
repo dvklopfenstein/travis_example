@@ -1,7 +1,10 @@
 # Travis Example
 
-  * [Welcome to The Hitchhiker’s Guide to Packaging](
-    https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)    
+  * **Packaging**    
+    * [Welcome to The Hitchhiker’s Guide to Packaging](
+      https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)    
+    * [so: install_requires vs. Requirements](https://stackoverflow.com/questions/14399534/reference-requirements-txt-for-the-install-requires-kwarg-in-setuptools-setup-py)
+    * [doc: install_requires vs. Requirements](https://packaging.python.org/discussions/install-requires-vs-requirements/)
 
   * [Writing the Setup Script](https://docs.python.org/2/distutils/setupscript.html)
     * [Examples](https://docs.python.org/2/distutils/examples.html)
