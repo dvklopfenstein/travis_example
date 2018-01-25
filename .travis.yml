@@ -31,6 +31,10 @@ before_install:
 install:
   # scipy and pandas are required by the package 'statsmodels'
   - for VERSION in $PYTHON_VERSIONS ; do conda create --name $VERSION --yes python=$VERSION --file requirements.txt ; source activate $VERSION ; python setup.py install; done
+  - conda install -c conda-forge codecov
+
+after_sucess:
+  - codecov
 
 # command to run tests
 script:

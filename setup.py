@@ -16,7 +16,7 @@ classifiers = [
     'Programming Language :: Python',
     'Programming Language :: Python :: 2',
     'Programming Language :: Python :: 3',
-    'Topic :: Scientific/Engineering :: Bio-Informatics',
+    'Topic :: Documentation',
     ]
 
 # Use the helper
