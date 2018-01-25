@@ -1,11 +1,15 @@
 # Travis Example
 
+## Table of Contents
+
   * [**Packaging**](#packaging)    
   * [**setup.py**](#setuppy)    
   * [**PyPI**](#pypi)    
   * [**Codecov**](#codecov)    
   * [**Licensing**](#licensing)    
 
+
+## Details
 
 #### **Packaging**    
   * [Welcome to The Hitchhiker’s Guide to Packaging](
