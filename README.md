@@ -24,7 +24,8 @@
   * [Classifiers](https://pypi.python.org/pypi?%3Aaction=list_classifiers)
 
 #### Codecov
-  * [Codecov Python Example](https://github.com/codecov/example-python/README.rst)
+  * [Codecov Python Example](https://github.com/codecov/codecov-python)
+  * [Codecov Python Example](https://github.com/codecov/example-python)
   * [Coverage.py](https://coverage.readthedocs.io/en/coverage-4.4.2/#quick-start)
 
 #### Licensing    
