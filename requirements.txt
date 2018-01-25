@@ -6,3 +6,8 @@ nose
 xlsxwriter
 statsmodels
 xlrd
+
+# Travis Python 2.7
+# File "/home/travis/.local/lib/python2.7/site-packages/requests/certs.py", line 15, in <module>
+#     from certifi import where
+certifi
